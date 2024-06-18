@@ -1,2 +1,2 @@
 # SeminariPython
-Notebooks pel Seminari de Python
+Notebooks pel Seminari Aprenent en Python ETSETB UPC
